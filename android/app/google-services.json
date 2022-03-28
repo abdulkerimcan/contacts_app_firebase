@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "953166417445",
+    "firebase_url": "https://dictionaryapp-fbc09-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dictionaryapp-fbc09",
+    "storage_bucket": "dictionaryapp-fbc09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953166417445:android:21fddc079407e2f6d8b9cc",
+        "android_client_info": {
+          "package_name": "com.example.contacts_app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953166417445-kjt9pf72piboehjp4bedvs3qakso9ro6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUkQCewSi4BUs1KAfSHrUV3dKNpDnaCvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953166417445-kjt9pf72piboehjp4bedvs3qakso9ro6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953166417445:android:23909b8bc19069ead8b9cc",
+        "android_client_info": {
+          "package_name": "com.example.dictionary_app_realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953166417445-kjt9pf72piboehjp4bedvs3qakso9ro6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUkQCewSi4BUs1KAfSHrUV3dKNpDnaCvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953166417445-kjt9pf72piboehjp4bedvs3qakso9ro6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953166417445:android:8a495537bed92ab0d8b9cc",
+        "android_client_info": {
+          "package_name": "com.example.grades_app_realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953166417445-kjt9pf72piboehjp4bedvs3qakso9ro6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUkQCewSi4BUs1KAfSHrUV3dKNpDnaCvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953166417445-kjt9pf72piboehjp4bedvs3qakso9ro6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953166417445:android:ba818256722956ced8b9cc",
+        "android_client_info": {
+          "package_name": "com.example.movies_app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953166417445-kjt9pf72piboehjp4bedvs3qakso9ro6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUkQCewSi4BUs1KAfSHrUV3dKNpDnaCvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953166417445-kjt9pf72piboehjp4bedvs3qakso9ro6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
