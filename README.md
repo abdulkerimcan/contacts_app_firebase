@@ -6,7 +6,7 @@ An application that you can add contacts.
 
 In this application you can add contacts,delete contacts,search contacts, or update the contact that has been registered.
 
-This contact data is registered on the Internet. Thanks to the http library, I can receive contacts. Or I can delete it.
+This contact data is registered on the Internet. Thanks to the firebase Realtime, I can receive contacts. Or I can delete it.
 
 Thanks to the following code, I can access the table in the database by creating a reference.
 ```dart
